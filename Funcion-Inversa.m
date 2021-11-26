@@ -1,4 +1,4 @@
-¿% Octave Script
+% Octave Script
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
 %Specialty             :Ingeniería en Sistemas Computacionales 
 % Title                :Funcion Inyectiva, Suprayectiva y Biyectiva
