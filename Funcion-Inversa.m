@@ -7,7 +7,7 @@
 %                      :Jose Miguel Sanchez
 %                      :Misael Barbosa
 %                      :Kevin Yoan Calderón García
-%                      :Francisco Javier, Diego Armando, Kevin Joan.
+%                      :Francisco Javier, Diego Armando, Kevin Yoan.
 % Date                 :20211125
 %Grupo                 :3102 y 3101
 
