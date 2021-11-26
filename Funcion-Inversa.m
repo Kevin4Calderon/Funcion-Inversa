@@ -3,11 +3,13 @@
 %Specialty             :Ingeniería en Sistemas Computacionales 
 % Title                :Funcion Inyectiva, Suprayectiva y Biyectiva
 % Description          :Script del segundo ejercicio de la actividad 18
-% Author               :Victoria Avigail Escobar 
-%                      :Jose Miguel Sanchez
-%                      :Misael Barbosa
-%                      :Kevin Yoan Calderón García
-%                      :Francisco Javier, Diego Armando, Kevin Yoan.
+% Author               :Victoria Avigail Escobar. 
+%                      :Jose Miguel Sanchez.
+%                      :Misael Barbosa.
+%                      :Kevin Yoan Calderón García.
+%                      :Francisco Javier.
+%                      :Diego Armando.
+%                      :Kevin Yoan.
 % Date                 :20211125
 %Grupo                 :3102 y 3101
 
