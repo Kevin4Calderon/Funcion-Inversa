@@ -31,4 +31,3 @@ grid on
 
 
 title('Funcion inverse');
-
